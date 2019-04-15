@@ -10,8 +10,8 @@ Links y archivos de la facultad.
 2 Investigación Operativa
 
 3 Teoria de Control
-
-    - Drive al Doc del Grupo https://drive.google.com/open?id=1pmcxYxpVVOhsHlhzSnEUDN7dlJfx8qX2aZJ2RVoIMtI 
+    
+   - Drive al Doc del Grupo https://drive.google.com/open?id=1pmcxYxpVVOhsHlhzSnEUDN7dlJfx8qX2aZJ2RVoIMtI 
 
 4 Redes
 
@@ -25,5 +25,4 @@ Links y archivos de la facultad.
 
 Drive Flamigistas
 
-    - https://drive.google.com/open?id=1y8xjFkZmf0-UxfoNBpOwxLLTG3r5hBka
- 
+   - https://drive.google.com/open?id=1y8xjFkZmf0-UxfoNBpOwxLLTG3r5hBka
